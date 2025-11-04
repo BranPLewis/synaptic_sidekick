@@ -1,0 +1,10 @@
+smolagents
+chromadb
+pdfplumber 
+agent
+openai
+requests
+bs4
+ddgs
+pandas
+langchain_text_splitters
