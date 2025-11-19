@@ -17,6 +17,9 @@ pip install -r requirements.txt
 
 ## Running the Code
 
+All of the current inlude PDF's are in data/raw. Add more related 
+PDF's to that folder if you require more information in the KW (Knowledge Base)
+
 1. To ingest PDF documents (if you have any research papers to add):
 ```bash
 python ingestion/ingest_pdfs.py
