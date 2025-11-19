@@ -4,15 +4,15 @@ A machine learning research assistant that helps answer ML-related questions usi
 
 ## Setup
 
-1. Install the required dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-2. Set up the virtual environment (optional but recommended):
+1. Set up the virtual environment (optional but recommended):
 ```bash
 python -m venv syn_side
 source syn_side/bin/activate  # On macOS/Linux
+```
+
+2. Install the required dependencies:
+```bash
+pip install -r requirements.txt
 ```
 
 ## Running the Code
